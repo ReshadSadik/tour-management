@@ -11,6 +11,7 @@ import { useTheme } from "@emotion/react";
 
 const Dashboard = () => {
   const theme = useTheme();
+  console.log("new test ai code review");
   return (
     <Box>
       <Typography variant="h1">Dashboard</Typography>
