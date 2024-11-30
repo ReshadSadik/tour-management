@@ -10,6 +10,7 @@ import {
 import { useTheme } from "@emotion/react";
 
 const Dashboard = () => {
+  console.log("testing ai code review");
   const theme = useTheme();
   return (
     <Box>
